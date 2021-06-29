@@ -24,7 +24,7 @@ var windowsHeight = $(window).height();
 
   $('#headerwrap').backstretch([
         "images/a.jpg"
-      , "images/g.jpg"
+       , "images/r.jpg"
     ], {duration: 3000, fade: 750});
 
 jQuery(document).ready(function(){
